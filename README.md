@@ -1,21 +1,20 @@
-# نظام إدارة تأجير السيارات
-**Car Rental Management System** · التصنيف: منصة تجارية
+# Car Rental Management System
+**Car Rental Management System** · Category: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code not included.
 
-## نبذة عن المشروع
-منصة لإدارة أسطول وحجوزات شركات تأجير السيارات، تغطي توفر المركبات والحجوزات والفوترة.
+## Project Overview
+A platform to manage fleet and reservations for car rental companies, covering vehicle availability, bookings, and billing.
 
-## أبرز النقاط
-- تقويم توفر المركبات مع منع تعارض الحجوزات
-- مسار حجز إلكتروني مع تسعير وإصدار عقود
-- لوحة تحكم إدارية للأسطول والفوترة والعملاء
+## Highlights
+- Vehicle availability calendar with prevention of booking conflicts
+- Online booking flow with pricing and contract issuance
+- Administrative dashboard for fleet, billing, and customers
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirements analysis and building the system, admin dashboard, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies Used
 Admin Dashboard, Booking System, Database
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
